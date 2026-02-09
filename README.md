@@ -160,7 +160,7 @@ db.users.updateOne(
 - **Real-time Data**: Refresh buttons for live metrics
 - **Role-Based UI**: Different sidebars for User vs Admin
 
-## Project for Hackathon
+
 
 This UI + backend combination demonstrates:
 1. ✅ Secure API Gateway implementation
@@ -171,7 +171,7 @@ This UI + backend combination demonstrates:
 6. ✅ Professional UI/UX design
 7. ✅ Full-stack integration
 
-Perfect for showcasing in a hackathon presentation!
+
 
 ## Tech Stack
 
@@ -197,4 +197,4 @@ Perfect for showcasing in a hackathon presentation!
 
 ---
 
-**Created for Hackathon: Secure API Gateway with Rate Limiting**
+
